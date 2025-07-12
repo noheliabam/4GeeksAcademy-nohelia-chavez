@@ -64,8 +64,6 @@ projects:
   - name: Espectra
     description: App en desarrollo para apoyo a familias con niños autistas. Rutinas, botón SOS, comunidad y seguimiento.
 
- 
-
 skills:
   - name: HTML5
     level: 80
